@@ -35,7 +35,7 @@
 - Uses text files for storage  
 - Suitable for computer science student projects  
 
-////////////////////////////////////
+
 
 # نظام البنك المصغّر - لغة C++  
 
