@@ -1095,6 +1095,8 @@ short ReadManageUsersOption()
 	cin >> C;
 	return C;
 }
+void MainMenue();
+void Login();
 void ManageUsers(enUser Choise)
 {
 	switch (Choise)
@@ -1125,7 +1127,7 @@ void ManageUsers(enUser Choise)
 		break;
 
 	default:
-		GoBackToMainMenue();
+		MainMenue();
 		break;
 	}
 }
@@ -1215,7 +1217,7 @@ void Bank(enChoise Choise)
 		break;
 
 	default:
-		PrintLoginScreen();
+		Login();
 		break;
 	}
 }
