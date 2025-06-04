@@ -1235,8 +1235,7 @@ void Login()
 		{
 			cout << "Invalied Name and password\n";
 		}
-		else
-			User = ReadUserInfo();
+		User = ReadUserInfo();
 		LoginFail = !LoginIfo(User.UserName, User.Password);
 	} while (LoginFail);
 	MainMenue();
