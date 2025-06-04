@@ -22,10 +22,13 @@
 | Manage users     | 64    |
 | All permissions  | 127   |  
 
-## How to Use  
+## Usage Instructions  
 1. Compile and run the program  
-2. To log in use (User : Admin , password : 2013) for full permissions)  
-3. Navigate through menus to access functions  
+2. **Login:**  
+   - Username: `Admin`  
+   - Password: `2013`  
+   (This account has full privileges)  
+3. Navigate through the menus to access the functions
 
 ## Notes  
 - Open-source educational project  
@@ -60,7 +63,10 @@
 
 ## طريقة الاستخدام  
 1. قم بتجميع وتشغيل البرنامج  
-2. لتسجيل الدخول استخدم (المستخدم: Admin، كلمة المرور: 2013) للحصول على كافة الصلاحيات  
+2. **تسجيل الدخول:**  
+   - اسم المستخدم: `Admin`  
+   - كلمة المرور: `2013`  
+   (هذا الحساب لديه كافة الصلاحيات)  
 3. انتقل عبر القوائم للوصول إلى الوظائف  
 
 ## ملاحظات  
