@@ -197,7 +197,6 @@ void PrintClint(stClints Clint)
 	cout << "| " << setw(10) << left << Clint.Balance;
 }
 bool HasAPermissonse(short Per, stUsers& User);
-
 void PrintMainMenueScreen()
 {
 	system("cls");
@@ -1095,8 +1094,8 @@ short ReadManageUsersOption()
 	cin >> C;
 	return C;
 }
-void MainMenue();
 void Login();
+void MainMenue();
 void ManageUsers(enUser Choise)
 {
 	switch (Choise)
